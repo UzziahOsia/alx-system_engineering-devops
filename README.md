@@ -1,1 +1,1 @@
-Files that show proficiency in Shell I/O Redirections & filters
+This repository contains directories connected to Syestem Engineering and Devops
